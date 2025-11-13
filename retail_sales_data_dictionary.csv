@@ -1,0 +1,19 @@
+column,type,description
+store_id,int,Unique identifier for each store (1-40)
+year,int,Calendar year
+month,int,Calendar month number (1-12)
+month_index,int,Numeric month index used for seasonality (1-12)
+is_holiday_month,int (0/1),Indicates whether the month is part of the holiday season (1 = holiday month)
+ad_spend,float,Monthly advertising expenditure
+foot_traffic,int,Estimated customer visits during the month
+avg_price,float,Average unit price of items sold
+staff_count,int,Number of staff assigned to the store
+store_size_sqft,int,Store size in square feet
+promo_days,int,Number of promotional days in the month
+competitors_within_3km,int,Number of competitor stores within a 3 km radius
+inventory_fill_rate,float [0-1],Proportion of SKUs in stock (0-1)
+returns_rate,float [0-1],Proportion of sales returned by customers (0-1)
+local_income_index,float,Local income indicator (100 = national average)
+parking_spaces,int,Number of customer parking spaces
+store_age_years,int,Age of the store in years
+monthly_sales,float,Total monthly sales revenue (dependent variable)
