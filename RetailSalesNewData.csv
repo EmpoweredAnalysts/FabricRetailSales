@@ -1,0 +1,6 @@
+store_id,is_holiday_month,ad_spend,foot_traffic,avg_price,staff_count,store_size_sqft,promo_days,competitors_within_3km,inventory_fill_rate,returns_rate,local_income_index,parking_spaces,store_age_years
+1,1,9892.63,5253,18.67,28,29476,1,1,0.9667,0.0432,98.3,263,11
+1,0,11716.85,7139,24.03,55,29476,8,1,0.9198,0.0438,98.3,263,11
+2,0,19868.37,5787,19.17,33,21933,5,1,0.9083,0.0365,93.7,171,5
+2,0,20405.44,7392,16.87,44,21933,8,3,0.9746,0.0443,93.7,171,5
+2,1,9182.44,4866,26.6,25,21933,3,3,0.9342,0.0418,93.7,171,5
